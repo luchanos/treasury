@@ -16,7 +16,7 @@
 - SQL - https://www.coursera.org/specializations/learn-sql-basics-data-science
 - Advanced Python - https://www.pluralsight.com/courses/advanced-python
 - Канал про Python высокого качества - https://www.pluralsight.com/authors/robert-smallshire 
-- Elasticsearch - 
+- Elasticsearch - https://www.udemy.com/course/elasticsearch-complete-guide/
 ### Избранные книги
 - Ч.Петцольд - Код. Тайный язык информатики - базовая книга для понимания того, как работают компьютеры.
 - М.Лутц - Изучаем Python (2 тома) - базовые книги по Python
