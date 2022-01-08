@@ -14,6 +14,7 @@
 ### Избранные курсы
 - Погружение в Python - https://ru.coursera.org/learn/diving-in-python
 - SQL - https://www.coursera.org/specializations/learn-sql-basics-data-science
+- Postgresql - https://www.udemy.com/course/bestpostgres/
 - Advanced Python - https://www.pluralsight.com/courses/advanced-python
 - Канал про Python высокого качества - https://www.pluralsight.com/authors/robert-smallshire 
 - Elasticsearch - https://www.udemy.com/course/elasticsearch-complete-guide/
