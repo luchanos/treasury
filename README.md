@@ -28,6 +28,7 @@
 - С.Дасгупта, Х.Пападимитриу, У.Вазирани - Алгоритмы - жёсткая книга про алгоритмы, но очень крутая. Читать только после всего остального.
 - [Python для сетевых инженеров — Документация Python для сетевых инженеров 3.0](https://pyneng.readthedocs.io/ru/latest/contents.html)
 - Э.Шоу - [Внутреннее устройство CPython](http://onreader.mdl.ru/CPythonInternals/content/index.html)
+- К. Нгуен - Полное руководство параллельного программирования на Python http://onreader.mdl.ru/MasteringConcurrencyInPython/content/index.html
 - Д.Хеллман - Стандартная библиотека Python
 ### Избранные видео
 - А. Кузьмин - Память и Python https://www.youtube.com/watch?v=D0vbuIDOV4c
