@@ -32,3 +32,6 @@
 - Д.Хеллман - Стандартная библиотека Python
 ### Избранные видео
 - А. Кузьмин - Память и Python https://www.youtube.com/watch?v=D0vbuIDOV4c
+### Избранные сайты для решения задач
+- https://codeforces.com/
+- https://codewars.com/
