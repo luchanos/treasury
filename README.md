@@ -35,6 +35,7 @@
 ### Избранные сайты для решения задач
 - https://codeforces.com/
 - https://codewars.com/
+- https://leetcode.com/
 ### ЗАДАЧИ
 ## Декораторы
 Задача 1
