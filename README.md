@@ -19,6 +19,7 @@ SQL и так далее.
 - Типовые ошибки Python-разработчиков на собеседованиях - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/531674/)
 - Как работает память в Python - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/530804/)
 - Рецепт полезного код-ревью от разработчика из Яндекса - [Яндекс Дзен](https://habr.com/ru/company/yandex/blog/422143/)
+- Как устроен GIL? - [Яндекс Дзен](https://habr.com/ru/post/84629/)
 ### Переводы на Хабр по технологиям
 - Pytest - [Яндекс Дзен](https://habr.com/ru/post/448782/)
 - RabbitMQ - [Яндекс Дзен](https://habr.com/ru/post/149694/)
