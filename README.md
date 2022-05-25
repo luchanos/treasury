@@ -11,20 +11,20 @@ SQL и так далее.
 решить за вменяемое время.
 
 ### Избранные статьи на Хабр
-- Почему твоя мама ещё не прогает? - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/569062/)
-- Хватит клепать псевдопрограммистов, или «Горшочек — не в IT!» - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/572272/)
-- Генераторы для самых маленьких - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/560300/)
-- Введение в асинхронное программирование на Python - [Яндекс Дзен](https://habr.com/ru/company/otus/blog/509328/)
-- Асинхронный Python: различные формы конкурентности - [Яндекс Дзен](https://habr.com/ru/post/421625/)
-- Типовые ошибки Python-разработчиков на собеседованиях - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/531674/)
-- Как работает память в Python - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/530804/)
-- Рецепт полезного код-ревью от разработчика из Яндекса - [Яндекс Дзен](https://habr.com/ru/company/yandex/blog/422143/)
-- Как устроен GIL? - [Яндекс Дзен](https://habr.com/ru/post/84629/)
-- Действительно ли Python GIL уже мёртв? - [Яндекс Дзен](https://habr.com/ru/company/otus/blog/458694/)
+- Почему твоя мама ещё не прогает? - [Хабр](https://habr.com/ru/company/domclick/blog/569062/)
+- Хватит клепать псевдопрограммистов, или «Горшочек — не в IT!» - [Хабр](https://habr.com/ru/company/domclick/blog/572272/)
+- Генераторы для самых маленьких - [Хабр](https://habr.com/ru/company/domclick/blog/560300/)
+- Введение в асинхронное программирование на Python - [Хабр](https://habr.com/ru/company/otus/blog/509328/)
+- Асинхронный Python: различные формы конкурентности - [Хабр](https://habr.com/ru/post/421625/)
+- Типовые ошибки Python-разработчиков на собеседованиях - [Хабр](https://habr.com/ru/company/domclick/blog/531674/)
+- Как работает память в Python - [Хабр](https://habr.com/ru/company/domclick/blog/530804/)
+- Рецепт полезного код-ревью от разработчика из Яндекса - [Хабр](https://habr.com/ru/company/yandex/blog/422143/)
+- Как устроен GIL? - [Хабр](https://habr.com/ru/post/84629/)
+- Действительно ли Python GIL уже мёртв? - [Хабр](https://habr.com/ru/company/otus/blog/458694/)
 ### Переводы на Хабр по технологиям
-- Pytest - [Яндекс Дзен](https://habr.com/ru/post/448782/)
-- RabbitMQ - [Яндекс Дзен](https://habr.com/ru/post/149694/)
-- Docker - [Яндекс Дзен](https://habr.com/ru/company/ruvds/blog/438796/)
+- Pytest - [Хабр](https://habr.com/ru/post/448782/)
+- RabbitMQ - [Хабр](https://habr.com/ru/post/149694/)
+- Docker - [Хабр](https://habr.com/ru/company/ruvds/blog/438796/)
 ### Избранные курсы
 - Погружение в Python - https://ru.coursera.org/learn/diving-in-python
 - SQL - https://www.coursera.org/specializations/learn-sql-basics-data-science
