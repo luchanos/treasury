@@ -20,6 +20,7 @@ SQL и так далее.
 - Как работает память в Python - [Яндекс Дзен](https://habr.com/ru/company/domclick/blog/530804/)
 - Рецепт полезного код-ревью от разработчика из Яндекса - [Яндекс Дзен](https://habr.com/ru/company/yandex/blog/422143/)
 - Как устроен GIL? - [Яндекс Дзен](https://habr.com/ru/post/84629/)
+- Действительно ли Python GIL уже мёртв? - [Яндекс Дзен](https://habr.com/ru/company/otus/blog/458694/)
 ### Переводы на Хабр по технологиям
 - Pytest - [Яндекс Дзен](https://habr.com/ru/post/448782/)
 - RabbitMQ - [Яндекс Дзен](https://habr.com/ru/post/149694/)
