@@ -30,7 +30,7 @@ SQL и так далее.
 - SQL - https://www.coursera.org/specializations/learn-sql-basics-data-science
 - Postgresql - https://www.udemy.com/course/bestpostgres/
 - Advanced Python - https://www.pluralsight.com/courses/advanced-python
-- Канал про Python высокого качества - https://www.pluralsight.com/authors/robert-smallshire 
+- Канал про Python высокого качества - https://www.pluralsight.com/authors/robert-smallshire
 - Elasticsearch - https://www.udemy.com/course/elasticsearch-complete-guide/
 - Онлайн-тренажер по Гиту - https://learngitbranching.js.org/?locale=ru_RU
 ### Избранные книги
@@ -45,6 +45,7 @@ SQL и так далее.
 - Э.Шоу - [Внутреннее устройство CPython](http://onreader.mdl.ru/CPythonInternals/content/index.html)
 - К. Нгуен - Полное руководство параллельного программирования на Python http://onreader.mdl.ru/MasteringConcurrencyInPython/content/index.html
 - Д.Хеллман - Стандартная библиотека Python
+- А. Голобурдин (Диджитализируй)- [Типизированный Python](https://github.com/alexey-goloburdin/typed-python-book)
 ### Избранные видео
 - А. Кузьмин - Память и Python https://www.youtube.com/watch?v=D0vbuIDOV4c
 ### Избранные сайты для решения задач
@@ -79,8 +80,8 @@ SQL и так далее.
 19. Бывает ли в Python множественное наследование? Как ты относишься к этому факту?
 20. Если у нескольких классов-родителей есть методы с одинаковыми названиями, то какой из них будет вызван в наследнике?
 21. Что такое полиморфизм? Накодить пример.
-22. Что такое staticmethod? 
-23. Чем staticmethod отличается от простой функции? 
+22. Что такое staticmethod?
+23. Чем staticmethod отличается от простой функции?
 24. Когда будем использовать staticmethod, а когда простую функцию?
 25. Что такое classmethod? В чём его особенности? Когда применяется?
 26. Что такое магические методы и за что они отвечают?
@@ -183,7 +184,7 @@ SQL и так далее.
 7. Для чего нужен файл conftest?
 
 ## Кодинг:
-1. Написать пример произвольного менеджера контекста. 
+1. Написать пример произвольного менеджера контекста.
 2. Реализовать паттерн проектирования синглтон.
 3. Реализовать паттерн проектирования декоратор.
 4. Решить несколько задач.Уметь оценить алгоритмическую сложность решения.
