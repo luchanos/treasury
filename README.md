@@ -15,6 +15,7 @@ SQL и так далее.
 - Почему твоя мама ещё не прогает? - [Хабр](https://habr.com/ru/company/domclick/blog/569062/)
 - Хватит клепать псевдопрограммистов, или «Горшочек — не в IT!» - [Хабр](https://habr.com/ru/company/domclick/blog/572272/)
 - Генераторы для самых маленьких - [Хабр](https://habr.com/ru/company/domclick/blog/560300/)
+- Итераторы для самых маленьких - [Хабр](https://habr.com/ru/companies/domclick/articles/674194/)
 - Введение в асинхронное программирование на Python - [Хабр](https://habr.com/ru/company/otus/blog/509328/)
 - Асинхронный Python: различные формы конкурентности - [Хабр](https://habr.com/ru/post/421625/)
 - Типовые ошибки Python-разработчиков на собеседованиях - [Хабр](https://habr.com/ru/company/domclick/blog/531674/)
